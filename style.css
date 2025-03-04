@@ -1,0 +1,20 @@
+body {
+    background-color: #dbc27b;
+}
+.content {
+    font-family: Arial, sans-serif;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 33%;
+    margin: auto;
+}
